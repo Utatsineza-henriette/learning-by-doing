@@ -1,4 +1,4 @@
-print('this is a heart:')
+print('this is an aestrik:')
 print('*' * 2)
 print('*' * 3)
 print('*' * 4)
@@ -7,5 +7,3 @@ print('*' * 4)
 print('*' * 3)
 print('*' * 2)
 print('*' * 1)
-
-
