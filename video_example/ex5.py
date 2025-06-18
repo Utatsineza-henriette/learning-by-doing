@@ -1,6 +1,6 @@
 price = 1000000
-is_good_credit = False
-if is_good_credit:
+has_good_credit = False
+if has_good_credit:
     print('they need to putdown 10% ')
     new_price = price*10/100
 else:
