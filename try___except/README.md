@@ -1,0 +1,1 @@
+using try to solve that issues that are not handle like telling the users that they are some errors in the programm or showing the exact meaning when you enter something wrong
